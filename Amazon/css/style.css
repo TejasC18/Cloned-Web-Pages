@@ -1,0 +1,42 @@
+* {
+  float: left;
+  padding: 20px;
+}
+.image {
+  height: 400px;
+  width: 300px;
+}
+.Mybutton {
+  border-width: 1px;
+  border-radius: 25%;
+  padding: 6px;
+  white-space: nowrap;
+  font-weight: 700;
+  color: #ffffff;
+  background: #cc0c39;
+}
+body {
+  font-weight: lighter;
+  text-decoration: solid;
+  background-color: rgb(244, 239, 234);
+}
+.logo img {
+  width: 150px;
+  height: 75px;
+  float: left;
+}
+.btn img {
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 0;
+  float: left;
+}
+.s1 {
+  height: 30px;
+  width: 700px;
+  border-width: 0;
+  padding-bottom: 20px;
+  padding-top: 15px;
+  float: left;
+}
